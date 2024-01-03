@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-flag",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return a specified flag for a provided ndarray.",
   "license": "Apache-2.0",
   "author": {
