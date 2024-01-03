@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import flag from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-flag@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-flag/tags). For example,
+
+```javascript
 import flag from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-flag@v0.1.0-esm/index.mjs';
 ```
 
@@ -105,7 +110,7 @@ import zeros from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-zeros@esm/index
 import slice from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-slice@esm/index.mjs';
 import E from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-multi@esm/index.mjs';
 import S from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-ctor@esm/index.mjs';
-import flag from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-flag@v0.1.0-esm/index.mjs';
+import flag from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-flag@esm/index.mjs';
 
 // Create an array:
 var x = zeros( [ 10, 10, 10, 10 ] );
