@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@stdlib/assert-is-property-key": "^0.1.0",
-    "@stdlib/ndarray-base-flags": "github:stdlib-js/ndarray-base-flags#main",
+    "@stdlib/ndarray-base-flags": "^0.1.0",
     "@stdlib/string-format": "^0.1.1",
     "@stdlib/types": "^0.2.0"
   },
